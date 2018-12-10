@@ -11,6 +11,9 @@ alias gb="git checkout -b" $1
 alias ga="git add -A ."
 alias gd='git diff'
 alias gpsu='git push --set-upstream origin master'
+alias gp="git push"
+alias gm="git merge" $1
+alias gpsu="git push --set-upstream origin master"
 
 # some customized list and removing functions
 alias ls='ls -G'
