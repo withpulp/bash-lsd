@@ -1,5 +1,12 @@
-# Bash Profile
+# Bash LSD
 
-This is a collection of my aliases for my bash profile. I use [zsh](https://ohmyz.sh/). I customized my terminal to use the [operator](https://www.typography.com/blog/introducing-operator) font. I use the `robbyrussell` theme for ZShell. Enjoy!
+To remember a loved one, we at [WithPulp](http://withpulp.com) thought it best to share the bash profile and preferences of Isam Machlovi. Founder and genius behind a lot of what WithPulp is and does.
 
-![](./terminalAndAtom.png)
+This is a collection of command shortcuts, such as `gs` for `git status`, [see more](./wiki/Shortcuts.md).
+
+Some of use the `robbyrussell` theme for [zsh](https://ohmyz.sh/). Isam customized his terminal to use the [operator](https://www.typography.com/blog/introducing-operator) font. Enjoy!
+
+#### [Wiki](./wiki)
+
+* [Getting Stared](wiki/Getting-Started)
+* [Shortcuts](wiki/Shortcuts)
