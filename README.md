@@ -10,5 +10,5 @@ Some of us use the `robbyrussell` theme for [zsh](https://ohmyz.sh/). Isam custo
 
 #### [Wiki](./wiki)
 
-* [Getting Stared](wiki/Getting-Started)
-* [Shortcuts](wiki/Shortcuts)
+* [Getting Stared](wiki/Getting-Started.md)
+* [Shortcuts](wiki/Shortcuts.md)
